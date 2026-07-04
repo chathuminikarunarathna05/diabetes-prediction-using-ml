@@ -21,11 +21,11 @@ This project focuses on predicting the likelihood of diabetes and cardiovascular
 * Publicly available dataset (Kaggle)
 * Contains medical attributes such as:
 
-  * Glucose level
+  * Gender
   * Blood pressure
   * BMI
   * Age
-  * Insulin level
+  * Smoking history
 * Target variable: **Outcome (0 = No Diabetes, 1 = Diabetes)**
 
 ---
